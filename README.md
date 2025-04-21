@@ -1,4 +1,4 @@
-![img](https://raw.githubusercontent.com/BasketBall27/kodo_preview/refs/heads/main/VSCODE.png)
+![img](https://raw.githubusercontent.com/BasketBall27/kodo_preview/refs/heads/main/CODIUM.png)
 ![img](https://raw.githubusercontent.com/BasketBall27/kodo_preview/refs/heads/main/MAIN.png)
 ![img](https://raw.githubusercontent.com/BasketBall27/kodo_preview/refs/heads/main/SYNC.png)
 ![img](https://raw.githubusercontent.com/BasketBall27/kodo_preview/refs/heads/main/P_VIREON.png)
